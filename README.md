@@ -1,0 +1,4 @@
+一个简单的nlp模型的实现 包括了rnn lstm seq2seq textcnn textrnn 
+utils包括了实现词频统计，和词表字典的创建 和将预训练的词向量加载到网络中的函数
+dataset里面实现了一个简易的实现训练集的类 获取label和处理后的列表
+然后model里面是对模型的简单实现 同时对bert模型实现了微调
